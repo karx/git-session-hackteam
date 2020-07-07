@@ -14,3 +14,9 @@ We discussed the following topics
 * How to view and merge Pull Requests from Collaborators
 
 
+
+## Session 2
+* Revise definations/concepts.
+* Revise fundamentals about Working directory, local repository, remote repository.
+* make few changes and highlight `tracked` and `untracked` files
+* New cheat: what is `stashing`
