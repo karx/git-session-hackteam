@@ -16,6 +16,7 @@ We discussed the following topics
 
 
 ## Session 2
+* Review last session
 * Revise definations/concepts.
 * Revise fundamentals about Working directory, local repository, remote repository.
 * make few changes and highlight `tracked` and `untracked` files
