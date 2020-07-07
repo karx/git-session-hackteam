@@ -21,4 +21,5 @@ We discussed the following topics
 * Revise fundamentals about Working directory, local repository, remote repository.
 * make few changes and highlight `tracked` and `untracked` files
 * New cheat: what is `stashing`
+*testing git diff 
 
