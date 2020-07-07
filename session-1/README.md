@@ -1,4 +1,5 @@
 ## Notes for Ankit about Session 1
+These notes define How to create a new local repository and push to GitHub.
 
 * Step 1: Make a repo on Github
 * Step 2: Come inside the folder where all the files to be pushed are available
@@ -14,6 +15,5 @@ Step 8: After making changes, run: git add .
 * git add [fileName along with extention]
 * Step 9: Now run the commit command to make the file ready for pushing on Github
 * git commit -m "committing message"
-* Step 10: Finally for pushing, git push -u origin master [URL]
-* You have to mention the URL for the first time only for a specific repo and folder. Next time onword only run:
-* git push
+* Step 10: Finally for pushing, git push -u origin master 
+* Next time onword only run: git push
